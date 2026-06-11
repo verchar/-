@@ -1,0 +1,11 @@
+# CornWeed9 Dataset Configuration (相对路径最稳版)
+
+# 1. 相对路径设置 (注意这里只写一个点，代表当前文件夹)
+path: .  
+train: images/train  
+val: images/val  
+test: images/test   
+
+# 2. 类别设置
+nc: 9  
+names: ['Amaranthus', 'Chenopodium', 'Solanum nigrum', 'Alhagi sparsifolia', 'Purslane', 'Convolvulus', 'Setaria', 'Amaranthus polygonoides', 'Corn']

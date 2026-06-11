@@ -1,0 +1,16 @@
+# 忽略缓存
+__pycache__/
+
+# 忽略数据集和输出
+images/
+labels/
+runs/
+output/
+
+# 忽略模型权重和数据文件
+*.pt
+*.onnx
+*.npy
+
+# 忽略压缩包
+*.zip

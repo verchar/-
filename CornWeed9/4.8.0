@@ -1,0 +1,3 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy in c:\programdata\miniconda3\envs\yolov8\lib\site-packages (2.0.2)
+Requirement already satisfied: typing-extensions in c:\programdata\miniconda3\envs\yolov8\lib\site-packages (4.15.0)

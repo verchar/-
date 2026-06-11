@@ -1,0 +1,7 @@
+displayName: 玉米幼苗与杂草数据集
+license:
+- MIT
+mediaTypes:
+- Image
+taskTypes:
+- Object Detection

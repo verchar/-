@@ -1,0 +1,11 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: ml-dtypes in c:\programdata\miniconda3\envs\yolov8\lib\site-packages (0.4.1)
+Collecting ml-dtypes
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/63/8a/bc7f9c8c358214dba25f70077dbc85aac85f92d255a6f20dd3ae64026a43/ml_dtypes-0.5.4-cp39-cp39-win_amd64.whl (210 kB)
+Requirement already satisfied: numpy>=1.21 in c:\programdata\miniconda3\envs\yolov8\lib\site-packages (from ml-dtypes) (2.0.2)
+Installing collected packages: ml-dtypes
+  Attempting uninstall: ml-dtypes
+    Found existing installation: ml-dtypes 0.4.1
+    Uninstalling ml-dtypes-0.4.1:
+      Successfully uninstalled ml-dtypes-0.4.1
+Successfully installed ml-dtypes-0.5.4
