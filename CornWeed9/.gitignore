@@ -1,5 +1,6 @@
 # 忽略缓存
 __pycache__/
+.vscode/
 
 # 忽略数据集和输出
 images/
@@ -7,8 +8,9 @@ labels/
 runs/
 output/
 
-# 忽略模型权重和数据文件
+# 忽略大文件，但允许根目录下的 .pt 文件上传
 *.pt
+!/*.pt
 *.onnx
 *.npy
 
